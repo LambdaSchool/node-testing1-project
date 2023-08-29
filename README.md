@@ -11,6 +11,7 @@ Your assignment page on Canvas should contain instructions for submitting this p
 - [ ] For Exercises 1-7 inside `index.js`:
   - [ ] Write the tests in `index.test.js`.
   - [ ] Implement the function or the class in `index.js`.
+  cross-env NODE_ENV=testing
 
 #### Notes
 
